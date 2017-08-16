@@ -14,4 +14,4 @@ for (let count = 0; count < 3; count ++) {
     } else {
       window.alert("Sorry, your password is incorrect try again another time");
     }
-}
+};
